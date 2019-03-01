@@ -21,7 +21,9 @@ import com.lzx.starrysky.utils.TimerTaskManager;
 import java.util.ArrayList;
 import java.util.List;
 
-
+/**
+ * kotlin版
+ */
 public class MainActivity extends AppCompatActivity implements OnPlayerEventListener {
 
     boolean isFavorite = false;
