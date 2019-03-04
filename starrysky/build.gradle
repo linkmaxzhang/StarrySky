@@ -39,6 +39,9 @@ android {
         desc = 'A Powerful and Streamline MusicLibrary'
         website = "https://github.com/lizixian18/StarrySky"
     }
+    androidExtensions {
+        experimental = true
+    }
 }
 
 dependencies {
