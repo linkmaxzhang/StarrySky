@@ -35,12 +35,12 @@ android {
 
     publish {
         repoName = 'StarrySky'
-        userOrg = 'lizixian'
-        groupId = 'com.lzx'
+        userOrg = 'max'
+        groupId = 'com.max'
         artifactId = 'StarrySkyJava'
-        publishVersion = '2.1.9'
+        publishVersion = '2.2.1'
         desc = 'A Powerful and Streamline MusicLibrary'
-        website = "https://github.com/lizixian18/StarrySky"
+        website = ""
     }
 
 }
